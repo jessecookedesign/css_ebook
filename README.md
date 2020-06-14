@@ -1,26 +1,26 @@
-#CSS Basics for Everyone
+# CSS Basics for Everyone
 Tutorials and Reference Sheets
 
 
 
-##Intro
+## Intro
     What is CSS?
     How does CSS work with HTML?
     Style tags in head vs. linking a stylesheet
 
-##Syntax
+## Syntax
     What is "syntax"?
     Basic CSS syntax
 
-##Getting started
+## Getting started
     Go in order or skip ahead to the desired sections
     This book doesn't cover everything
 
-##Table of Contents
+## Table of Contents
 
 
 
-##Chapter 1 - Selecting HTML elements
+## Chapter 1 - Selecting HTML elements
     Basics
     Classes
     IDs
@@ -29,18 +29,18 @@ Tutorials and Reference Sheets
     :nth-child()
     REVIEW and CHEAT-SHEET
 
-##Chapter 1 - Spacing
+## Chapter 1 - Spacing
     Box model
     Margin
     Padding
     REVIEW and CHEAT-SHEET
 
-##Chapter 2 - Position and Display
+## Chapter 2 - Position and Display
     Position
     Display
     REVIEW and CHEAT-SHEET
 
-##Chapter 3 - Styling text
+## Chapter 3 - Styling text
     font-size
     font-family
     font-weight
@@ -52,7 +52,7 @@ Tutorials and Reference Sheets
     @font-face
     REVIEW and CHEAT-SHEET
 
-##Chapter 3 - Styling links and buttons
+## Chapter 3 - Styling links and buttons
     text-decoration
     border
     box-shadow
@@ -62,4 +62,4 @@ Tutorials and Reference Sheets
 
 
 
-##Glossary
+## Glossary
